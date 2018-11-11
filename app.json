@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "BrainOnFire",
+    "entryPoint": "./src/App.js",
     "description": "This project is really great.",
     "slug": "BrainOnFire",
     "privacy": "public",
