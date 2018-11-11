@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "BrainOnFire",
-    "entryPoint": "./src/App.js",
+    "entryPoint": "index.ios.js",
     "description": "This project is really great.",
     "slug": "BrainOnFire",
     "privacy": "public",
